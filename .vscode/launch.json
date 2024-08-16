@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/wadys/OneDrive/Escritorio/UCAD/9no Cuatri/Programación Web/1er Parcial/Pagina Web/imagenes",
+      "program": "c:/Users/wadys/OneDrive/Escritorio/UCAD/9no Cuatri/Programación Web/1er Parcial/Pagina Web/imagenes/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
